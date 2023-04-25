@@ -1,33 +1,78 @@
+████████████████████████████████████████(APS)
 M.I.A. - Multifunctional Intonation Assistant
 600
 300
 221
 228
 255
-0.80
-10
 0
-hi mia
-hi mia
-hi mia
-hi mia
-hi mia
-hi mia
-hi mia
-hi mia
-hi mia
-hi mia
-hi mia
-sup mia
-sup mia
-sup mia
-sup mia
-sup mia
-sup mia
-sup mia
-sup mia
-sup mia
-sup mia
-done
+10
+0.80
+female
+████████████████████████████████████████(VC1)
+Hello, Mia!
+Hi, Mia!
+Hey, Mia!
+Greetings, Mia!
+Good morning, Mia!
+Salutations, Mia!
+Welcome, Mia!
+Hey there, Mia!
+Hiya, Mia!
+Yo, Mia!
+████████████████████████████████████████(RS1)
+Good morning.
+Hello there.
+Hi.
+Hey.
+Greetings.
+Salutations.
+Welcome.
+Howdy.
+Yo.
+Well, hello.
+████████████████████████████████████████(VC2)
+Thanks, Mia!
+Thank you, Mia.
+Mia, thank you!
+Thanks a lot, Mia.
+Mia, I appreciate it.
+Thank you kindly, Mia.
+Mia, you're a big help. Thank you.
+Thanks for your assistance, Mia.
+Mia, you're amazing. Thank you!
+Mia, I'm grateful. Thank you.
+████████████████████████████████████████(RS2)
+You're welcome!
+My pleasure!
+Glad to help!
+Anytime!
+Happy to assist!
+No problem!
+Always here for you!
+Thank you for using my services.
+It's what I'm here for!
+Always at your service!
+████████████████████████████████████████(INF)
+M.I.A. - Multifunctional Intonation Assistant is a software application that retrieves its values and settings from a text file on the internet. This unique feature allows for easy customization and updates, as developers can simply modify the text file and users dont have to download a new version of the software.
 
-het werkt
+2: Form text
+3: Width
+4: Height
+5: Red background value
+6: green background value
+7: Blue background value
+8: Form opacity
+9: Form Fade delay
+10: speechSynthesizer Confidence value
+11: speechSynthesizer Gender value
+
+
+The following are the ranges of voice command sets and voice responses sets:
+
+13-22: Voicecommandset1
+24-33: ResponseSet1
+
+35-44: Voicecommandset2
+46-55: ResponseSet2
+████████████████████████████████████████████
