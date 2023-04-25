@@ -8,7 +8,7 @@ M.I.A. - Multifunctional Intonation Assistant
 0
 10
 0.80
-female
+male
 ████████████████████████████████████████(VC1)
 Hello, Mia!
 Hi, Mia!
