@@ -72,7 +72,7 @@ The following are the ranges of voice command sets and voice responses sets:
 
 13-22: Voicecommandset1
 24-33: ResponseSet1
-
+m
 35-44: Voicecommandset2
 46-55: ResponseSet2
 ████████████████████████████████████████████
