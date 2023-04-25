@@ -4,9 +4,9 @@ M.I.A. - Multifunctional Intonation Assistant
 221
 228
 255
-0
+0.80
 10
-k
+0
 hi mia
 hi mia
 hi mia
